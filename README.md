@@ -6,7 +6,7 @@ Full Stack Engineer · Architecture Logicielle & IA · M1 MIAGE @ Université C�
 {
   "role": "AI-native Software Engineer",
   "education": "Master's student in AI & Information Systems",
-  "currently_studying": "M1 MIAGE, Université Côte d'Azur (2026-2028, alternance)",
+  "currently_studying": "M1 MIAGE, Université Côte d'Azur — seeking apprenticeship (2026-2028)",
   "currently_building": [
     "AI agents & LLM-powered applications"
   ],
